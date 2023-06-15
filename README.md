@@ -1,1 +1,3 @@
-# Speech_delay_App
+The main idea of this project is to treat children up to the age of 7 years for a very serious disease, which is delayed speech. 
+The child plays a game that consists of different and smart stages based on a medical basis that treats him and helps him to pronounce gradually through its different stages until he becomes able to speak well in addition to Fun during the different stages of the game and also acquires the correct pronunciation of the most important words that he needs continuously.
+The application will be based on artificial intelligence, and we will add several additional features, such as cartoons that help develop pronunciation for children and correct pronunciation of a large number of words.
