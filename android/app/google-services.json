@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "765078142963",
+    "project_id": "speakup-430fa",
+    "storage_bucket": "speakup-430fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765078142963:android:e98b9b67034a6511a0dc86",
+        "android_client_info": {
+          "package_name": "com.example.speakup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765078142963-b1nl72m9dbhirc1huh7rvni0qkpa7n1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.speakup",
+            "certificate_hash": "3be5bde00d793425e9f692314e11ce89e003bdc5"
+          }
+        },
+        {
+          "client_id": "765078142963-cl8siln5357cp8f1hspsffmbvpndik4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI51fBQVYJsp9SWPTjh4HkKfjI0JvN1yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765078142963-cl8siln5357cp8f1hspsffmbvpndik4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

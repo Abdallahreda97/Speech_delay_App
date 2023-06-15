@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>765078142963-gvh4fv9a5hihiiu91b57l4c77c6a2o0d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.765078142963-gvh4fv9a5hihiiu91b57l4c77c6a2o0d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>765078142963-b1nl72m9dbhirc1huh7rvni0qkpa7n1c.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAuLIYqV1TL6aYKDaJ8PgTfkXla23auQ3k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>765078142963</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.speakup</string>
+	<key>PROJECT_ID</key>
+	<string>speakup-430fa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>speakup-430fa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:765078142963:ios:17ae323d69b4a3bda0dc86</string>
+	<key>DATABASE_URL</key>
+	<string>https://speakup-430fa-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
